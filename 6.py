@@ -1,0 +1,6 @@
+n=int(input())
+a=int(input())
+b=int(input())
+d=max(n,a,b)
+f=min(n,a,b)
+print(d-f)
